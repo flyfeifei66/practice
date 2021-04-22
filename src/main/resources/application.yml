@@ -1,0 +1,6 @@
+spring:
+  profiles.active: dev
+apollo:
+  bootstrap:
+    enabled: false
+    namespaces: application,TEST1.redis
