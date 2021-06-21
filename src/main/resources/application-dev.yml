@@ -30,7 +30,5 @@ spring:
       max-idle: 8
       min-idle: 0
 mybatis:
-  config-location: classpath:mybatis/mybatis.cfg.xml            # mybatis配置文件所在路径
-  type-aliases-package: com.zhaojufei.practice.web.entity       # 定义所有操作类的别名所在包
   mapper-locations:
     classpath:mybatis/mapper/*.xml

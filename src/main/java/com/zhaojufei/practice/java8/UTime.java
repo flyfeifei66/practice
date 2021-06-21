@@ -1,6 +1,6 @@
 package com.zhaojufei.practice.java8;
 
-import com.zhaojufei.practice.repeatsubmit.common.UUIDGenerator;
+import com.zhaojufei.practice.myfeature.repeatsubmit.common.UUIDGenerator;
 
 /**
  * @author zhaojufei
